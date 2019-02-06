@@ -11,6 +11,6 @@ The finding are that:
 * 46% to 60% of Americans live within a 30-60 min drive to Ikea
 
 For the full results, have a look at this [jupyter
-notebook](https://github.com/mommermi/Ikea-distance/Ikea-distance.ipynb).
+notebook](https://github.com/mommermi/Ikea-distance/blob/master/Ikea-distance.ipynb).
 
 This notebook is available under MIT License guidelines.
